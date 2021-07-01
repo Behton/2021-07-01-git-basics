@@ -1,4 +1,4 @@
-# 2021-07-01-git-basic
+# Git Basics
 
 
 - `git init` : initialize git repository in current working directory
