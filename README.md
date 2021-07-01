@@ -1,4 +1,4 @@
-# git basics
+# Git Basics sdfsdfsdf
 
 
 - `git init` : initialize git repository in current working directory
