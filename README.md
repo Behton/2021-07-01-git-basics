@@ -14,3 +14,4 @@
 - `git checkout <HASH> <FILE> : restore <FILE> to verion in <HASH>
 	-if you run
 - `git ingnores empty files
+- `remotes` : git remote add <URL>
