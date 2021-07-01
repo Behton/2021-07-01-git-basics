@@ -1,4 +1,4 @@
-# git basics
+# 2021-07-01-git-basic
 
 
 - `git init` : initialize git repository in current working directory
@@ -15,3 +15,4 @@
 	-if you run
 - `git ingnores empty files
 - `remotes` : git remote add <URL>
+- pull changes
