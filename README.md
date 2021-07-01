@@ -12,4 +12,5 @@
 - `git diff <HASH> <FILE> : compares current file to previous
 - `git status` to help you find the commands to unstage or restore fi
 - `git checkout <HASH> <FILE> : restore <FILE> to verion in <HASH>
-	-if you run 
+	-if you run
+- `git ingnores empty files
